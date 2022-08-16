@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, I'm Marketa Willis 🙋🏻‍♀️
+
+I'm a frontend developer and programming lecturer.   
+I'm passionate about learning new stuff, as well as helping others learn more about the fascinating world of IT. Some technologies I enjoy working with include React, Typescript, NextJS, JS, and GraphQL. 
 
 <!--
 **marketaanezka/marketaanezka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
