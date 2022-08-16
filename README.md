@@ -1,6 +1,6 @@
 ## Hi, I'm Marketa Willis 🙋🏻‍♀️
 
-<img align="right" width="220" height="315" src="https://github.com/marketaanezka/marketaanezka/blob/main/cartoon-avatar-removebg.png">
+<img align="right" width="205" height="360" src="https://github.com/marketaanezka/marketaanezka/blob/main/cartoon-avatar-removebg.png">
 I'm a frontend developer and programming lecturer.   
 I'm passionate about learning new stuff, as well as helping others learn more about the fascinating world of IT. Some technologies I enjoy working with include JavaScript, React, Typescript, NextJS, and GraphQL. 
 
