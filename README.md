@@ -1,8 +1,15 @@
 ## Hi, I'm Marketa Willis 🙋🏻‍♀️
 
-<img align="left" width="200" height="280" src="https://github.com/marketaanezka/marketaanezka/blob/main/cartoon-avatar-removebg.png">
+<img align="right" width="220" height="315" src="https://github.com/marketaanezka/marketaanezka/blob/main/cartoon-avatar-removebg.png">
 I'm a frontend developer and programming lecturer.   
-I'm passionate about learning new stuff, as well as helping others learn more about the fascinating world of IT. Some technologies I enjoy working with include React, Typescript, NextJS, JS, and GraphQL. 
+I'm passionate about learning new stuff, as well as helping others learn more about the fascinating world of IT. Some technologies I enjoy working with include JavaScript, React, Typescript, NextJS, and GraphQL. 
+
+#### Few facts about me
+- 👩🏻‍🏫 I studied to be a teacher of English and Russian
+- 💻 I started programming in 2019 
+- 💎 I switched careers in 2020
+- 🤝 I believe in the power of networking and building a personal brand
+- ✨ I take cold showers in the morning (not saying I like it)
 
 
 <!--
