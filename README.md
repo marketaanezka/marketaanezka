@@ -9,7 +9,7 @@ I'm passionate about learning new stuff, as well as helping others learn more ab
 - 💻 I started programming in 2019 
 - 💎 I switched careers in 2020
 - 🤝 I believe in the power of networking and building a personal brand
-- ✨ I take cold showers in the morning (not saying I like it)
+- ✨ You don't need to be a math genius to learn and enjoy programming! 
 
 
 <!--
